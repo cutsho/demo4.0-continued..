@@ -1,0 +1,33 @@
+.heading_1{
+    background color: green;
+}
+
+h3{
+    font-size: 50px;
+}
+
+header{
+    height: 75px;
+    background-color: green;
+}
+
+.container{
+    overflow: hidden;
+}
+.blog {
+    float:leftg;
+    width: 40%;
+    height: 200px;
+    background-color: blue;
+}
+
+.contact{
+   float: right;
+   width: 40%;
+   height: 200px;
+   background-color: green; 
+}
+.footer{
+    height: 100px;
+    background-color: black;
+}
